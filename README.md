@@ -1,25 +1,24 @@
 # Hi, I'm Ankita Das 👋
 
-**Aspiring Data Analyst** | Mumbai, Maharashtra
-B.Sc. IT @ Mumbai University (8.5 CGPA) | B.Arch Graduate
+Aspiring Data Analyst | Mumbai, Maharashtra
+B.Sc. IT student @ Mumbai University (8.5 CGPA)
 
 ---
 
 ### About me
-I'm building a career in Data Analytics with hands-on skills in SQL, Python, Power BI, and Excel.
-My architecture background gives me a strong eye for visual communication and data storytelling.
 
-Currently working on analytics projects covering data cleaning, EDA, and dashboard development.
+I'm learning Data Analytics through hands-on projects using SQL, Python, Excel, and Power BI.
+Currently building my skills in data cleaning, reporting, and dashboard creation.
 
 ---
 
 ### Skills
 
-- **Languages:** Python · SQL · Core Java  
-- **Data Analysis:** Pandas · NumPy · Excel  
-- **Visualisation:** Power BI · Excel Charts · Pivot Tables  
-- **Databases:** MySQL · Google Sheets  
-- **Tools:** Jupyter Notebook · GitHub · MS Office  
+- SQL · MySQL
+- Python · Pandas · NumPy
+- Power BI · Excel (Pivot Tables, VLOOKUP, Charts)
+- Data Cleaning · Dashboard Creation
+- GitHub · MS Office
 
 ---
 
@@ -27,9 +26,9 @@ Currently working on analytics projects covering data cleaning, EDA, and dashboa
 
 | Project | Tools | Description |
 |---|---|---|
-| IPL Cricket Analytics | Python, Pandas, Power BI | EDA on 900+ IPL matches — win trends, top players, toss advantage |
-| Zomato Restaurant Insights | Python, SQL, Power BI | Analysis of 9,000+ restaurants for ratings, cost and cuisine trends |
-| Customer Churn Prediction | Python, Pandas, Matplotlib | EDA on 7,000 telecom customers to identify churn drivers |
+| Sales Data Analysis | SQL · Excel · Power BI | Cleaned sales data and built a dashboard tracking revenue and product trends |
+| HR Analytics Dashboard | Excel · Power BI | Tracked employee attrition and attendance using pivot tables and charts |
+| AI-Assisted Sales Report | SQL · Excel | Used AI tools to generate business insights from sales data |
 
 ---
 
