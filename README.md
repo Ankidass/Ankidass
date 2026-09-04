@@ -15,8 +15,8 @@ Currently building my skills in data cleaning, reporting, and dashboard creation
 ### Skills
 
 - SQL · MySQL
-- Python · Pandas · NumPy
-- Power BI · Excel (Pivot Tables, VLOOKUP, Charts)
+- Python 
+- Power BI · Excel (VLOOKUP, XLOOKUP)
 - Data Cleaning · Dashboard Creation
 - GitHub · MS Office
 
